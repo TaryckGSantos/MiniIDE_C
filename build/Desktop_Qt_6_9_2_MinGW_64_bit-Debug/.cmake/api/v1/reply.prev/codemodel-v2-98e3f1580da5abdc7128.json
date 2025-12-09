@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-542ac899ce6b38daa0c1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MiniIDE",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MiniIDE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MiniIDE-Debug-f3d27b759710ce14e61c.json",
+					"name" : "MiniIDE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MiniIDE_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MiniIDE_autogen-Debug-50e88e8a7f9a512a0493.json",
+					"name" : "MiniIDE_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MiniIDE_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MiniIDE_autogen_timestamp_deps-Debug-c80554f0618ec804bc4c.json",
+					"name" : "MiniIDE_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Users/taryc/Documents/MiniIDE/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug",
+		"source" : "D:/Users/taryc/Documents/MiniIDE"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

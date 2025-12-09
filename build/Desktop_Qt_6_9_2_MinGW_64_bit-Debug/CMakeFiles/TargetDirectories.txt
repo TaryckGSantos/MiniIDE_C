@@ -1,0 +1,9 @@
+D:/Users/taryc/Documents/MiniIDE/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/MiniIDE.dir
+D:/Users/taryc/Documents/MiniIDE/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Users/taryc/Documents/MiniIDE/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Users/taryc/Documents/MiniIDE/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/Users/taryc/Documents/MiniIDE/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/Users/taryc/Documents/MiniIDE/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/Users/taryc/Documents/MiniIDE/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/Users/taryc/Documents/MiniIDE/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/MiniIDE_autogen_timestamp_deps.dir
+D:/Users/taryc/Documents/MiniIDE/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/MiniIDE_autogen.dir
