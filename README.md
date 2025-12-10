@@ -2,6 +2,8 @@
 
 ## Introdução
 
+* Trabalho feito até a geração de código 3
+
 MiniIDE_C é uma mini IDE desenvolvida em C++ que permite a edição e compilação de códigos em C++. Ao compilar o código, o projeto gera:
 
 - Uma **tabela de símbolos** contendo:  
